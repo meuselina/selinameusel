@@ -26,12 +26,12 @@ A **summer 2027 internship** (I'm free from May to September) in AI engineering 
 
 | Project | What it is | Built with |
 |---|---|---|
+| [Vibolingo](https://github.com/meuselina/Vibolingo) | 🏆 2nd place at a hackathon. "Duolingo for vibe coding": five minute lessons that teach people how to direct AI to build real apps. [Live demo](https://meuselina.github.io/Vibolingo/) | HTML, CSS, JavaScript |
 | [Personal website](https://github.com/meuselina/My-personal-website-and-CV) | Trilingual portfolio (EN / DE / ZH) with newsletter and AI agents section. [Live](https://selinameusel.netlify.app) | HTML, CSS, JavaScript |
-| [Vibolingo](https://github.com/meuselina/Vibolingo) | App concept: "Duolingo for vibe coding". Five minute lessons that teach people how to direct AI to build real apps. [Live demo](https://meuselina.github.io/Vibolingo/) | HTML, CSS, JavaScript |
-| [Bildvereinfacher](https://github.com/meuselina/Bildvereinfacher) | Command line tool that shrinks PNG files by merging similar colors (color quantization) | Java |
-| [Shop coded with Java](https://github.com/meuselina/Shop-coded-with-Java) | Fashion shop desktop app with categories, search and price sorting, built with inheritance | Java, Swing |
-| [Binärbäume](https://github.com/meuselina/Binaerbaeume-) | Binary tree algorithms: traversals, height, search, insert, with 19 automated tests | Java |
-| [Taschenrechner](https://github.com/meuselina/Taschenrechner) | Console calculator with input validation and automated tests | Java |
+| [Image Simplifier](https://github.com/meuselina/image-simplifier) | Command line tool that shrinks PNG files by merging similar colors (color quantization) | Java |
+| [Fashion shop](https://github.com/meuselina/Shop-coded-with-Java) | Desktop shop app with categories, search and price sorting, built with inheritance | Java, Swing |
+| [Binary Trees](https://github.com/meuselina/binary-trees) | Binary tree algorithms: traversals, height, search, insert, with 19 automated tests | Java |
+| [Calculator](https://github.com/meuselina/java-calculator) | Console calculator with input validation and 15 automated tests | Java |
 
 ### 🌍 Languages
 
