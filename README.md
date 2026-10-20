@@ -26,7 +26,7 @@ A **summer 2027 internship** (I'm free from May to September) in AI engineering 
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Vibolingo](https://github.com/meuselina/Vibolingo) | 🏆 2nd place at a hackathon. "Duolingo for vibe coding": five minute lessons that teach people how to direct AI to build real apps. [Live demo](https://meuselina.github.io/Vibolingo/) | HTML, CSS, JavaScript |
+| [Vibolingo](https://github.com/meuselina/Vibolingo) | 🏆 2nd place at the CODE Hackathon. "Duolingo for vibe coding": five minute lessons that teach people how to direct AI to build real apps. [Live demo](https://meuselina.github.io/Vibolingo/) | HTML, CSS, JavaScript |
 | [Personal website](https://github.com/meuselina/My-personal-website-and-CV) | Trilingual portfolio (EN / DE / ZH) with newsletter and AI agents section. [Live](https://selinameusel.netlify.app) | HTML, CSS, JavaScript |
 | [Image Simplifier](https://github.com/meuselina/image-simplifier) | Command line tool that shrinks PNG files by merging similar colors (color quantization) | Java |
 | [Fashion shop](https://github.com/meuselina/Shop-coded-with-Java) | Desktop shop app with categories, search and price sorting, built with inheritance | Java, Swing |
